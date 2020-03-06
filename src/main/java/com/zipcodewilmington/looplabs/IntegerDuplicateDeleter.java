@@ -33,8 +33,8 @@ public final class IntegerDuplicateDeleter extends DuplicateDeleter<Integer> {
             resultArray[sizeCounter] = holderArray[sizeCounter];
             sizeCounter++;
         }
-
         return resultArray;
+
     }
 
     @Override
